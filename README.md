@@ -34,7 +34,6 @@ Dê **duplo clique** em `iniciar_dash.bat`
 - Verificar/instalar automaticamente as bibliotecas (`dash`, `plotly`, `pandas`)
 - Abrir o navegador com o Dash
 - Executar o app no terminal
-- Encerrar apenas quando você apertar uma tecla
 
 #### ✔️ Opção manual (via terminal)
 
